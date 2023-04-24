@@ -2,7 +2,7 @@
   "name": "dyndns",
   "version": "0.0.1",
   "dependencies": {
-    "aws-sdk": "*"
+    "aws-sdk": "2.1354.0"
   },
   "devDependencies": {
     "eslint": "*",
